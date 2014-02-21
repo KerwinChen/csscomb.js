@@ -1,0 +1,10 @@
+a {
+    top: 0;
+    left: 0;
+
+    float: right;
+    font-size: 1em;
+    position: absolute;
+
+    color: tomato;
+    }
